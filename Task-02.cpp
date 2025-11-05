@@ -9,7 +9,7 @@ int main() // syntax analysis -> check main function structure right or wrong
     cout << "Enter your first name: ";
     cin >> firstName;
 
-    cout << "Enter your last name: ";
+    cout << "Enter your last name: "; //changed.................
     cin >> lastName;
 
     cout << "FullName: " << firstName + " " + lastName << endl;
