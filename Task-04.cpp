@@ -19,6 +19,6 @@ int main() // syntax analysis -> check main function structure right or wrong
 
     cout << endl;
 
-    return 0;
+    return 0; //return keno.....
 }
 
